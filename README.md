@@ -18,7 +18,7 @@
     This is a Progressive Electron App, which uses Electron and other tools to create a true desktop-like web app.
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/ProgressiveElectronApps/ProtonMail/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
     <a href="https://proton.me/mail"><strong>Proton Mail website</strong></a>
     ·
